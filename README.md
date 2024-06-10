@@ -1,5 +1,7 @@
-![Screenshot 2024-06-10 194132](https://github.com/Ponraj2345/Chat-App/assets/161063758/550b9c17-b4d5-40ec-9b5a-8b87f630e960)
-![Screenshot 2024-06-10 194232](https://github.com/Ponraj2345/Chat-App/assets/161063758/7e3af30f-a7f9-469f-a1b6-f3bc8b8072da)
-![Screenshot 2024-06-10 194318](https://github.com/Ponraj2345/Chat-App/assets/161063758/d7ebb81c-063d-4e65-b37a-1d1b75a0a520)
-![Screenshot 2024-06-10 194502](https://github.com/Ponraj2345/Chat-App/assets/161063758/4131bfb1-7dc9-4b06-b6b3-65cf67777724)
-![Screenshot 2024-06-10 194944](https://github.com/Ponraj2345/Chat-App/assets/161063758/efbf6a2b-adc9-4299-a28c-21a3a49a29c5)
+![WhatsApp Image 2024-06-10 at 10 10 58 PM (2)](https://github.com/Ponraj2345/Chat-App/assets/161063758/bb5248bc-78c4-445f-a97c-4bd48b93e7c8)
+![WhatsApp Image 2024-06-10 at 10 10 58 PM (1)](https://github.com/Ponraj2345/Chat-App/assets/161063758/d11747db-6bd7-4500-9cdf-bde0c18045e8)
+![WhatsApp Image 2024-06-10 at 10 10 58 PM](https://github.com/Ponraj2345/Chat-App/assets/161063758/6453bbf6-b607-461f-967a-733baddccfe9)
+![WhatsApp Image 2024-06-10 at 10 10 57 PM (2)](https://github.com/Ponraj2345/Chat-App/assets/161063758/80e1ee08-eb62-4869-b726-1000696c2443)
+![WhatsApp Image 2024-06-10 at 10 10 57 PM (1)](https://github.com/Ponraj2345/Chat-App/assets/161063758/3e2a011e-1e14-4dbf-a22b-efda0ff66bc2)
+![WhatsApp Image 2024-06-10 at 10 10 57 PM](https://github.com/Ponraj2345/Chat-App/assets/161063758/00ab2431-784b-4185-af9c-b917546ec61d)
+
