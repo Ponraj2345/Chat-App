@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/btm_nav_chat" android:title="Chats" android:icon="@drawable/chat_icon" app:showAsAction="always"/>
+    <item android:title="Profile" android:icon="@drawable/baseline_person_24" android:id="@+id/btm_nav_profile" app:showAsAction="always"/>
+
+</menu>
